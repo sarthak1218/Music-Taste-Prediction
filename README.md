@@ -28,21 +28,21 @@ Matplotlib, Seaborn
 
 The performance of two machine learning models, Logistic Regression and K-Nearest Neighbours (KNN). This code evaluates the model using various metrics to assess its performance. An evaluation of the KNN model is conducted in a similar manner. Ultimately, a comparison is made betwen the F1-scores of both models to determine their relative performance. The evaluation function compiles important metrics to comprehensively assess the performance of each model and presents the results for convenient comparison.
 
-Metrics for Logistic Regression:
+*Metrics for Logistic Regression:*
 Accuracy: 0.8974
 Precision: 0.9000
 Recall: 0.9000
 F1 Score: 0.9000
-------------------------------
 
-Metrics for Logistic Regression using Scikit:
+
+*Metrics for Logistic Regression using Scikit:*
 Accuracy: 0.9231
 Precision: 0.9048
 Recall: 0.9500
 F1 Score: 0.9268
-------------------------------
 
-Metrics for K-Nearest Neighbors (KNN):
+
+*Metrics for K-Nearest Neighbors (KNN):*
 Accuracy: 0.8462
 Precision: 0.8500
 Recall: 0.8500
