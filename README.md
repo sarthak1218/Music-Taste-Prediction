@@ -1,4 +1,4 @@
-# Music Taste Prediction: Spotify Dataset
+# Predicting Spotify Song Preferences using Logistic Regression & KNN
 
 **Overview**
 
